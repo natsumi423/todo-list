@@ -6,7 +6,7 @@ const Header: FC = () => {
     <AppBar position="fixed">
       <Toolbar variant="dense">
         <Typography variant="h6" noWrap component="div">
-          ToDoリスト
+          ★ToDoリスト
         </Typography>
       </Toolbar>
     </AppBar>
